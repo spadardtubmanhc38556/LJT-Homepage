@@ -1,7 +1,0 @@
-# Header navigation
-main:
-  - title: "About"
-    url: /
-
-  - title: "Publications"
-    url: /publications/
